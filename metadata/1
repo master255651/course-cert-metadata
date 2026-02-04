@@ -1,0 +1,14 @@
+{
+  "name": "Certificate: Solidity Bootcamp",
+  "description": "This NFT certifies that the holder successfully completed the Solidity Bootcamp organized by Endava.",
+  "image": "https://graphicsfamily.com/wp-content/uploads/edd/2022/01/Award-Certificate-Template-1536x1117.jpg",
+  "attributes": [
+    { "trait_type": "Organization", "value": "Endava" },
+    { "trait_type": "Course ID", "value": "SOLIDITY-BOOTCAMP-2026" },
+    { "trait_type": "Course Name", "value": "Solidity Bootcamp" },
+    { "trait_type": "Type", "value": "Course" },
+    { "trait_type": "Student Name", "value": "Iurie Starenco" },
+    { "trait_type": "Completion Date", "display_type": "date", "value": 1776816000 },
+    { "trait_type": "Certificate Number", "value": "EA-2026-000015" }
+  ]
+}
